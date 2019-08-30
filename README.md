@@ -6,6 +6,7 @@ Research on Chinese Classical Painting Theory
 本文选自王世襄《中国画论研究》，对部分章节进行翻译。译文为湖山一梦原创，转载请注明出处。
 
 ### 第一章 概论 
+1. [（丙）品论]() [预计20190831]
 1. [（乙）方法](https://github.com/tinygan/Painting-Theory-01/issues/2)
 1. [（甲）理论](https://github.com/tinygan/Painting-Theory-01/issues/1)
  
